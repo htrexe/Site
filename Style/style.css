@@ -190,8 +190,9 @@ aside > ul {
     width: 400px;
     max-width: 1000px;
     margin-left: -40px;
-    font-size: 14px;
+    font-size: 10px;
     overflow-x: hidden;
+    line-height: 1.4em;
 }
 
 
