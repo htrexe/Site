@@ -191,6 +191,7 @@ aside > ul {
     max-width: 1000px;
     margin-left: -40px;
     font-size: 14px;
+    overflow-x: hidden;
 }
 
 
